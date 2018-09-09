@@ -18,10 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background-image: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/07/Dark-City.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+
 
 .container {
   margin: 0 auto;
