@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    background-image: url("https://pre00.deviantart.net/535d/th/pre/f/2014/179/0/6/abstract_wallpaper_by_hexdef101-d7oeybk.png");
+    background-image: url("http://img09.deviantart.net/3e19/i/2013/090/b/9/triangles_by_alteredfusebox-d5zz2yv.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -46,6 +46,20 @@ th {
   padding: 0 10px;
   width: 100%;
   background-color: #45A29E;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
 }
 
 h1, h2, h3, h4, h5, h6 {
