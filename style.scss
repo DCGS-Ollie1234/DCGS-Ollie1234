@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    background-image: url("http://lifestyleuncut.com/wp-content/uploads/2018/08/5k-20wallpaper-208l-home-design-blue-geometric-wallpaper-download-wallpaperk-56t.png");
+    background-image: url("https://png2.kisspng.com/20180326/olw/kisspng-desktop-wallpaper-hexagon-geometry-minimalism-wall-geometric-5ab8f943a230c3.7020374115220718756644.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -46,11 +46,11 @@ th {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: #4C5C6C7;
+  background-color: #1F2833;
 }
 
 a:link, a:visited {
-    background-color: #1F2833;
+    background-color: #66FCF1;
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -60,12 +60,12 @@ a:link, a:visited {
 
 
 a:hover, a:active {
-    background-color: #66FCF1;
+    background-color: #45A29E;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: pacifico;
-  color: #66FCF1;
+  color: #C5C6C7;
   font-weight: bold;
 
   line-height: 1.7;
@@ -102,11 +102,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #C5C6C7;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #C5C6C7;
   }
 }
 
@@ -150,7 +150,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #C5C6C7;
 }
 
 // Specify the color of the selection
@@ -225,7 +225,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #C5C6C7;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
